@@ -61,7 +61,7 @@ Follow the instructions for your operating system.
     npm install axios
     ```
 
-6.  **run javascript z.js ""
+6.  **run javascript z.js**
     ```bash
     node z.js
     ```
@@ -95,7 +95,7 @@ Follow the instructions for your operating system.
 
 ---
 
-## 🚀 How to Use
+## 🚀 How to Use proxy Srcape
 
 ### 1. Get Proxies
 
