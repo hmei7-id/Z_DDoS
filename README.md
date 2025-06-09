@@ -98,4 +98,4 @@ The script requires a list of proxies to function effectively. You should have a
 
 ```bash
 # Example command if you have a scraper.py
-python3 scraper.py
+python3 scrape.py
