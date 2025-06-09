@@ -56,13 +56,14 @@ Follow the instructions for your operating system.
     cd Z_DDoS
     ```
 
-    ```bash
-    node z.js
-    ```
-
 5.  **Install Node.js Dependencies**
     ```bash
     npm install axios
+    ```
+
+6.  **run javascript z.js ""
+    ```bash
+    node z.js
     ```
 
 ### Termux (Android)
