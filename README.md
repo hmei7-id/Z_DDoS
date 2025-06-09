@@ -1,6 +1,6 @@
 # Z-DDOS
 
-![Z-DDOS ASCII Art]([https://i.imgur.com/gKJZGZQ.png](https://imgur.com/a/EqK8mgX))
+![Z-DDOS ASCII Art](https://i.imgur.com/Qk802o6.jpeg)
 
 Z-DDOS is a powerful Layer 7 DDoS script designed for network stress testing. It utilizes the HTTP/2 protocol to send a high volume of requests through multiple threads and proxies, making it an effective tool for security research and testing website resilience.
 
