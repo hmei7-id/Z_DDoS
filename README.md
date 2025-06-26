@@ -80,12 +80,12 @@ Follow the instructions for your operating system.
 
 3.  **Clone the Repository**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/hmei7-id/Z_DDoS/
     ```
 
 4.  **Navigate to the Project Directory**
     ```bash
-    cd <repository-name>
+    cd Z_DDoS
     ```
 
 5.  **Install Node.js Dependencies**
