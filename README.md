@@ -58,7 +58,7 @@ Follow the instructions for your operating system.
 
 5.  **Install Node.js Dependencies**
     ```bash
-    npm install axios
+    npm install axios url https net crypto axios request header-generator childProcess
     ```
 
 6.  **run javascript z.js**
@@ -90,7 +90,12 @@ Follow the instructions for your operating system.
 
 5.  **Install Node.js Dependencies**
     ```bash
-    npm install axios
+    npm install axios url https net crypto axios request header-generator childProcess
+    ```
+
+6.  **run javascript z.js**
+    ```bash
+    node z.js
     ```
 
 ---
